@@ -53,8 +53,8 @@ Style of python programming language
 
 
         class Demo():
-            def dish(self):
-                print("Hello world")
+            def dish(self): (self) the default parameter for All the methods inside the class
+                print("Hello world") # Present inside the class and inside the method
                 a = 10
                 b = 20
                 print(a+b)
