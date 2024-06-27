@@ -20,16 +20,16 @@ Style of python programming language
 
 # IDEL will have two modes:
 #  1] Scripting Mode[Python file]
-        When ever you writing code in file and saving that file in (.py) that is you used Scripting language
-        In script mode, you will write a script and save the scripts with .py extension and then run it.
+        1.When ever you writing code in file and saving that file in (.py) that is you used Scripting language
+        2.In script mode, you will write a script and save the scripts with .py extension and then run it.
 
 
 # 2]Interative Mode[Python Shell]
-         if you run you are model in python Shell
-         chatting with python in Python Shell is called as int
-         Quick calulation and one line activation is called Interactive Mode 
-         When you close the python shell. All code will erase
-         immediately return thr results of commands when hit enter into the shell
+         1.if you run you are model in python Shell
+         2.chatting with python in Python Shell is called as int
+         3.Quick calulation and one line activation is called Interactive Mode 
+         4.When you close the python shell. All code will erase
+         5.immediately return thr results of commands when hit enter into the shell
 
 ---------------------------------------------------------------------------------------------------
 
