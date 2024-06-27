@@ -36,34 +36,34 @@ Style of python programming language
 # INDENTATION:
               refers to the spaces at the beginning of a code line.
 
-print("Hello world")
-a=10
-b=20
-d=a+b
-print(d)
+        print("Hello world")
+        a=10
+        b=20
+        d=a+b
+        print(d)
 
 
 # Defining The Method
-def message():
-    print("statement-01")
-    name = "tejas"
-    print(name)
-
-print("Hello world")
-message()
-
-
-
-class Demo():
-    def dish(self):
+        def message():
+            print("statement-01")
+            name = "tejas"
+            print(name)
+        
         print("Hello world")
-        a = 10
-        b = 20
-        print(a+b)
+        message()
 
-    print("Hi")
 
-d1=Demo() # Creation of object in python and d1 created adress and hold the ex holding 400 in Heap Segment
-d1.dish() # d1 present in stack segment
+
+        class Demo():
+            def dish(self):
+                print("Hello world")
+                a = 10
+                b = 20
+                print(a+b)
+        
+            print("Hi")
+        
+        d1=Demo() # Creation of object in python and d1 created adress and hold the ex holding 400 in Heap Segment
+        d1.dish() # d1 present in stack segment
          
  
