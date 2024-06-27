@@ -43,15 +43,13 @@ Style of python programming language
         print(d)
 
 
-# Defining The Method
-        def message():
+        def message(): # Defining The Method
             print("statement-01")
             name = "tejas"
             print(name)
         
         print("Hello world")
         message()
-
 
 
         class Demo():
