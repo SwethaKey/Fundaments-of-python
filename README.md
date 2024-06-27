@@ -26,7 +26,7 @@ Style of python programming language
 
 # 2]Interative Mode[Python Shell]
          1.if you run you are model in python Shell
-         2.chatting with python in Python Shell is called as int
+         2.chatting with python in Python Shell is called as interative mode
          3.Quick calulation and one line activation is called Interactive Mode 
          4.When you close the python shell. All code will erase
          5.immediately return thr results of commands when hit enter into the shell
