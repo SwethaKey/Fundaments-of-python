@@ -34,7 +34,7 @@ Style of python programming language
 ---------------------------------------------------------------------------------------------------
 
 # INDENTATION:
-              refers to the spaces at the beginning of a code line.
+    INDENTATION : refers to the spaces at the beginning of a code line.
 
         print("Hello world")
         a=10
